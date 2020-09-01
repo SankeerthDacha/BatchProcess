@@ -1,0 +1,8 @@
+com\sample\springbatchexample\model\User.class
+com\sample\springbatchexample\repository\UserRepository.class
+com\sample\springbatchexample\service\ServiceImpl.class
+com\sample\springbatchexample\controller\LoadController.class
+com\sample\springbatchexample\config\SpringBatchConfig.class
+com\sample\springbatchexample\batch\Processor.class
+com\sample\springbatchexample\SpringBatchExampleApplication.class
+com\sample\springbatchexample\batch\DBWriter.class
